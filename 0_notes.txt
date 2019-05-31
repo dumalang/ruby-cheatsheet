@@ -1,0 +1,15 @@
+Interactive Ruby Shells
+=======================
+irb
+irb --simple-prompt
+
+Ruby Information
+================
+ri <method_name> => go to documentation
+ri String
+ri String.new
+ri String#upcase
+
+Ruby
+====
+No Primitives
